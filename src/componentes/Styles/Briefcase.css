@@ -1,0 +1,27 @@
+/*Title*/
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
+
+.containerMP{
+    padding: 70px;   
+    padding-top: 0px;
+}
+
+.containerMP h2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-family: "Playfair Display SC", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.containerImagesMP{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.containerImagesMP .imageMainPage{
+    width: 50%;
+    height: 100%;
+}
