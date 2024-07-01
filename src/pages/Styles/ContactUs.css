@@ -133,7 +133,6 @@ h2{
 .containerButtons .buttonContact{
     background-color: rgb(54, 54, 54);
     color: white;
-    padding: 20px;
     font-family: "Playfair Display SC", serif;
     font-style: normal;
     font-weight: 800;    
@@ -141,7 +140,10 @@ h2{
     border-radius: 10%;
     transition: all;
     border: none;
-    width: 40%;
+    width: 45%;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }   
 
 .containerButtons .buttonContact:hover{
