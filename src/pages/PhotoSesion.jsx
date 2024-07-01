@@ -26,10 +26,10 @@ export function PhotoSession(){
     return(
         <>
             {Categorie(
-                '🏁 GABIEL AMARILLO 🛣️', Proyect1Image1, Proyect1Image2, Proyect1Image3, Proyect1Image4,
-                '✨ MODELO LAURA MANRIQUE ✨', Proyect2Image1, Proyect2Image2, Proyect2Image3, Proyect2Image4,
-                '🤗 MODELO NANI 🧘🏻‍♀️', Proyect3Image1, Proyect3Image2, Proyect3Image3, Proyect3Image4,
-                '👸🏻 MODELO NATALIA RIVERA 👑', Proyect4Image1, Proyect4Image2, Proyect4Image3, Proyect4Image4
+                'GABIEL AMARILLO', Proyect1Image1, Proyect1Image2, Proyect1Image3, Proyect1Image4,
+                'MODELO LAURA MANRIQUE', Proyect2Image1, Proyect2Image2, Proyect2Image3, Proyect2Image4,
+                'MODELO NANI', Proyect3Image1, Proyect3Image2, Proyect3Image3, Proyect3Image4,
+                'MODELO NATALIA RIVERA', Proyect4Image1, Proyect4Image2, Proyect4Image3, Proyect4Image4
             )} 
         </>        
     )

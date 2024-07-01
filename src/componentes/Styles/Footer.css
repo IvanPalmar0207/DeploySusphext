@@ -15,7 +15,7 @@ footer{
 }
 
 footer .containerText{
-    margin: 25px;
+    margin: 20px;
 }
 
 .containerText span{
@@ -41,5 +41,10 @@ footer .containerText{
 @media (max-width:900px) {
     .containerIconsFooter{
         flex-direction: column;
+    }
+
+    .containerIconsFooter .linkIconFooter{
+        font-size: 20px;
+        margin-top: 2px;
     }
 }

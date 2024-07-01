@@ -27,10 +27,10 @@ export function Briefcase(){
     return(    
         <>
             {Categorie(
-                '👩🏻‍⚕️ DOCTORA JUANA SUAREZ 🩺', Proyect1Image1, Proyect1Image2, Proyect1Image3, Proyect1Image4,
-                '😶‍🌫️ SALÓN DE BELLEZA DM 💆🏻‍♀️', Proyect2Image1, Proyect2Image2, Proyect2Image3, Proyect2Image4,
-                '😎 TIENDA ROOF + CO 👟', Proyect3Image1, Proyect3Image2, Proyect3Image3, Proyect3Image4,
-                '📚 CARACTER DE ABOGADOS 📖', Proyect4Image1, Proyect4Image2, Proyect4Image3, Proyect4Image4
+                'Dra JUANA SUAREZ', Proyect1Image1, Proyect1Image2, Proyect1Image3, Proyect1Image4,
+                'SALÓN DE BELLEZA GMP', Proyect2Image1, Proyect2Image2, Proyect2Image3, Proyect2Image4,
+                'TIENDA ROOF + CO', Proyect3Image1, Proyect3Image2, Proyect3Image3, Proyect3Image4,
+                'CARACTER LEGAL DE ABOGADOS', Proyect4Image1, Proyect4Image2, Proyect4Image3, Proyect4Image4
             )}
         </>
     )

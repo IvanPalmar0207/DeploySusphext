@@ -2,8 +2,7 @@
 import { Link } from "react-router-dom"
 /*Estilos*/
 import * as Icon from 'react-bootstrap-icons';
-import { MdEmail } from "react-icons/md";
-
+import { FaBehance } from "react-icons/fa";
 import './Styles/navBar.css';
 import iconBlog from './imgs/LogoSuspect.png';
 
@@ -31,7 +30,7 @@ export function NavBar(){
             <div className="cointanerNetowrks">
                 <ul className="containerIcons">
                     <li className="iconNet">
-                        <a className="linkIcon" href="mailto:2iamicda3@gmail.com" target="_blank" rel="noopener noreferrer"><MdEmail /></a>
+                        <a className="linkIcon" href="https://www.behance.net/9SXPHXT7" target='_blank' rel="noopener noreferrer"><FaBehance /></a>
                     </li>
                     <li className="iconNet">
                         <a className="linkIcon" href="https://www.instagram.com/9suspect7?igsh=MTZxY211MHRtNXNzcQ%3D%3D" target='_blank' rel="noopener noreferrer"><Icon.Instagram/></a>

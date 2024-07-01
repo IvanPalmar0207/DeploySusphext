@@ -11,7 +11,7 @@ export function AboutUs(){
             {TitlePage('Sobre nosotros')}
             <section className="aboutSection">
                 <div className="aboutTitle">
-                    <h2> David Pulido - SUSPHEXT</h2>
+                    <h2> David Pulido - SusxPHxecT</h2>
                 </div>
                 <div className="containerABout">
                     <img className="imageAbout" src = {AboutImage} alt="AboutImage" />

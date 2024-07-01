@@ -26,10 +26,10 @@ export function Others(){
     return(
         <>
             {Categorie(
-                '🐶 MASCOTAS 😸', Proyect1Image1, Proyect1Image2, Proyect1Image3, Proyect1Image4,
-                '📸 OBJETOS AL DETALLE 🪄', Proyect2Image1, Proyect2Image2, Proyect2Image3, Proyect2Image4,
-                '🚢 SALADO TURISTICO 🛳️', Proyect3Image1, Proyect3Image2, Proyect3Image3, Proyect3Image4,
-                '🚗 RADIO CAR 🏍️', Proyect4image1, Proyect4image2, Proyect4image3, Proyect4image4
+                'MASCOTAS', Proyect1Image1, Proyect1Image2, Proyect1Image3, Proyect1Image4,
+                'OBJETOS AL DETALLE', Proyect2Image1, Proyect2Image2, Proyect2Image3, Proyect2Image4,
+                'SALADO TURISTICO', Proyect3Image1, Proyect3Image2, Proyect3Image3, Proyect3Image4,
+                'RADIO CAR', Proyect4image1, Proyect4image2, Proyect4image3, Proyect4image4
             )}
         </>
     )

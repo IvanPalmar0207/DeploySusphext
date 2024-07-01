@@ -94,10 +94,12 @@ h2{
 }
 
 .containerFormContact .fields{
-    width: 90%;
+    width: 100%;
     height: 30px;
     margin-top: 30px;
-    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
     border: none;
     font-family: "Alice", serif;
     font-weight: 600;
@@ -105,10 +107,9 @@ h2{
 }
 
 .containerFormContact .fieldsArea{
-    width: 90%;
+    width: 100%;
     height: 100px;
     margin-top: 50px;
-    padding: 10px;
     border: none;
     font-family: "Alice", serif;
     font-weight: 400;
@@ -124,7 +125,7 @@ h2{
 
 .containerButtons{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     flex-direction: row;
     padding: 40px;
 }
@@ -132,15 +133,15 @@ h2{
 .containerButtons .buttonContact{
     background-color: rgb(54, 54, 54);
     color: white;
-    padding: 25px;
+    padding: 20px;
     font-family: "Playfair Display SC", serif;
     font-style: normal;
-    font-weight: 800;
-    margin: 10px;
+    font-weight: 800;    
     font-style: normal;
     border-radius: 10%;
     transition: all;
     border: none;
+    width: 40%;
 }   
 
 .containerButtons .buttonContact:hover{

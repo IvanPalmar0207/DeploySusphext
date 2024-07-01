@@ -25,3 +25,9 @@
     width: 50%;
     height: 100%;
 }
+
+@media (max-width:900px) {
+    .containerMP h2{
+        font-size: large;
+    }
+}
