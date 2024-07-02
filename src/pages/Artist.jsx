@@ -26,7 +26,7 @@ export function Artist(){
     return(
         <>
             {Categorie(
-                'JAMIR A - GRABACION DE VIDEOCLIP', Proyect1Image1, Proyect1Image2, Proyect1Image3, Proyect1Image4,
+                'JAMIR A - GRABACIÓN DE VIDEOCLIP', Proyect1Image1, Proyect1Image2, Proyect1Image3, Proyect1Image4,
                 'JHON TORRES - TATTO', Proyect2Image1, Proyect2Image2, Proyect2Image3, Proyect2Image4,
                 'LA RUTA DEL VIOLIN', Proyect3Image1, Proyect3Image2, Proyect3Image3, Proyect3Image4,
                 'DEU - DIRECCIÓN DE FOTOGRAFIA', Proyect4Image1, Proyect4Image2, Proyect4Image3, Proyect4Image4
